@@ -1,0 +1,10 @@
+.light{
+    background-color: #ffffff;
+}
+.dark{
+    background-color: #222;
+    box-shadow: 1px 1px 7px rgba(255, 255, 255, 0.297);
+}
+.textColor{
+    color: #ffffff;
+}
